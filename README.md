@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/harshita194/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/harshita194/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/harshita194/leetcode/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/harshita194/leetcode/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/harshita194/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
