@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/harshita194/leetcode/tree/master/0148-sort-list) |
+| [1137-height-checker](https://github.com/harshita194/leetcode/tree/master/1137-height-checker) |
 ## Merge Sort
 |  |
 | ------- |
@@ -53,8 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/harshita194/leetcode/tree/master/0503-next-greater-element-ii) |
+| [1137-height-checker](https://github.com/harshita194/leetcode/tree/master/1137-height-checker) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/harshita194/leetcode/tree/master/0503-next-greater-element-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/harshita194/leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
