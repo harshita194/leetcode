@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/harshita194/leetcode/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/harshita194/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/harshita194/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/harshita194/leetcode/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/harshita194/leetcode/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/harshita194/leetcode/tree/master/0414-third-maximum-number) |
 | [1137-height-checker](https://github.com/harshita194/leetcode/tree/master/1137-height-checker) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/harshita194/leetcode/tree/master/0016-3sum-closest) |
 | [0414-third-maximum-number](https://github.com/harshita194/leetcode/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/harshita194/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1137-height-checker](https://github.com/harshita194/leetcode/tree/master/1137-height-checker) |
