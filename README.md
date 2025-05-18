@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshita194/leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/harshita194/leetcode/tree/master/0012-integer-to-roman) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harshita194/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/harshita194/leetcode/tree/master/0012-integer-to-roman) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshita194/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harshita194/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/harshita194/leetcode/tree/master/1137-height-checker) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/harshita194/leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
