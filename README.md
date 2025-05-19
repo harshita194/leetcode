@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshita194/leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/harshita194/leetcode/tree/master/0012-integer-to-roman) |
+| [0223-rectangle-area](https://github.com/harshita194/leetcode/tree/master/0223-rectangle-area) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harshita194/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/harshita194/leetcode/tree/master/0012-integer-to-roman) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/harshita194/leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
