@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/harshita194/leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/harshita194/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/harshita194/leetcode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/harshita194/leetcode/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/harshita194/leetcode/tree/master/1205-defanging-an-ip-address) |
 ## Geometry
 |  |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/harshita194/leetcode/tree/master/0392-is-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/harshita194/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
