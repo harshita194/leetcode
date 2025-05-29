@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshita194/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/harshita194/leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/harshita194/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/harshita194/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/harshita194/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/harshita194/leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshita194/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshita194/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/harshita194/leetcode/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/harshita194/leetcode/tree/master/0289-game-of-life) |
 | [0414-third-maximum-number](https://github.com/harshita194/leetcode/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/harshita194/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshita194/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/harshita194/leetcode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/harshita194/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Counting Sort
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/harshita194/leetcode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/harshita194/leetcode/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/harshita194/leetcode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/harshita194/leetcode/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/harshita194/leetcode/tree/master/0289-game-of-life) |
 | [2737-row-with-maximum-ones](https://github.com/harshita194/leetcode/tree/master/2737-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
