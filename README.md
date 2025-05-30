@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/harshita194/leetcode/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/harshita194/leetcode/tree/master/0289-game-of-life) |
 | [0414-third-maximum-number](https://github.com/harshita194/leetcode/tree/master/0414-third-maximum-number) |
+| [0463-island-perimeter](https://github.com/harshita194/leetcode/tree/master/0463-island-perimeter) |
 | [0503-next-greater-element-ii](https://github.com/harshita194/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1137-height-checker](https://github.com/harshita194/leetcode/tree/master/1137-height-checker) |
 | [2737-row-with-maximum-ones](https://github.com/harshita194/leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -143,5 +144,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/harshita194/leetcode/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/harshita194/leetcode/tree/master/0289-game-of-life) |
+| [0463-island-perimeter](https://github.com/harshita194/leetcode/tree/master/0463-island-perimeter) |
 | [2737-row-with-maximum-ones](https://github.com/harshita194/leetcode/tree/master/2737-row-with-maximum-ones) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/harshita194/leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/harshita194/leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
