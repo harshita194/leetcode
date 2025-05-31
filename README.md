@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshita194/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshita194/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/harshita194/leetcode/tree/master/0085-maximal-rectangle) |
+| [0239-sliding-window-maximum](https://github.com/harshita194/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/harshita194/leetcode/tree/master/0289-game-of-life) |
 | [0414-third-maximum-number](https://github.com/harshita194/leetcode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/harshita194/leetcode/tree/master/0463-island-perimeter) |
@@ -160,5 +161,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/harshita194/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/harshita194/leetcode/tree/master/0859-design-circular-deque) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/harshita194/leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/harshita194/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/harshita194/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
