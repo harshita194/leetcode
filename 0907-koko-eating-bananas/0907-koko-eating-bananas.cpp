@@ -8,7 +8,7 @@ public:
             int mid = start + (end - start)/2;
             int hours = 0;
             for(int pile : piles){
-                hours += ceil((double)pile/mid);
+                hours += (pile + mid - 1)/mid;
             }
             if(hours <= h){
                 end = mid;
