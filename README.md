@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/harshita194/leetcode/tree/master/0463-island-perimeter) |
 | [0503-next-greater-element-ii](https://github.com/harshita194/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0859-design-circular-deque](https://github.com/harshita194/leetcode/tree/master/0859-design-circular-deque) |
+| [0907-koko-eating-bananas](https://github.com/harshita194/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1137-height-checker](https://github.com/harshita194/leetcode/tree/master/1137-height-checker) |
 | [2737-row-with-maximum-ones](https://github.com/harshita194/leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harshita194/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshita194/leetcode/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/harshita194/leetcode/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
