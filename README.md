@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/harshita194/leetcode/tree/master/0012-integer-to-roman) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshita194/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshita194/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshita194/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/harshita194/leetcode/tree/master/0782-jewels-and-stones) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshita194/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harshita194/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/harshita194/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/harshita194/leetcode/tree/master/0289-game-of-life) |
 | [0414-third-maximum-number](https://github.com/harshita194/leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshita194/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/harshita194/leetcode/tree/master/0463-island-perimeter) |
 | [0503-next-greater-element-ii](https://github.com/harshita194/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0859-design-circular-deque](https://github.com/harshita194/leetcode/tree/master/0859-design-circular-deque) |
