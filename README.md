@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshita194/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/harshita194/leetcode/tree/master/0012-integer-to-roman) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshita194/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshita194/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshita194/leetcode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/harshita194/leetcode/tree/master/0016-3sum-closest) |
 | [0055-jump-game](https://github.com/harshita194/leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshita194/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
