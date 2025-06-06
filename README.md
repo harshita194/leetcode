@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshita194/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/harshita194/leetcode/tree/master/0012-integer-to-roman) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshita194/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/harshita194/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshita194/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshita194/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/harshita194/leetcode/tree/master/0782-jewels-and-stones) |
@@ -65,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/harshita194/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/harshita194/leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/harshita194/leetcode/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/harshita194/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/harshita194/leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/harshita194/leetcode/tree/master/0414-third-maximum-number) |
 | [1137-height-checker](https://github.com/harshita194/leetcode/tree/master/1137-height-checker) |
 ## Merge Sort
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/harshita194/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/harshita194/leetcode/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/harshita194/leetcode/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/harshita194/leetcode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/harshita194/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/harshita194/leetcode/tree/master/0289-game-of-life) |
 | [0414-third-maximum-number](https://github.com/harshita194/leetcode/tree/master/0414-third-maximum-number) |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshita194/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshita194/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1137-height-checker](https://github.com/harshita194/leetcode/tree/master/1137-height-checker) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshita194/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
