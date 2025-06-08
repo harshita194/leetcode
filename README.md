@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshita194/leetcode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/harshita194/leetcode/tree/master/0016-3sum-closest) |
+| [0039-combination-sum](https://github.com/harshita194/leetcode/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/harshita194/leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshita194/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshita194/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -226,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/harshita194/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshita194/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/harshita194/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/harshita194/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
