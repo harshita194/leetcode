@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/harshita194/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/harshita194/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/harshita194/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/harshita194/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/harshita194/leetcode/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/harshita194/leetcode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/harshita194/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/harshita194/leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/harshita194/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/harshita194/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/harshita194/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/harshita194/leetcode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
