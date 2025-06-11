@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/harshita194/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/harshita194/leetcode/tree/master/0223-rectangle-area) |
 | [0412-fizz-buzz](https://github.com/harshita194/leetcode/tree/master/0412-fizz-buzz) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/harshita194/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harshita194/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/harshita194/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1137-height-checker](https://github.com/harshita194/leetcode/tree/master/1137-height-checker) |
 | [1646-kth-missing-positive-number](https://github.com/harshita194/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/harshita194/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/harshita194/leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harshita194/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Monotonic Stack
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/harshita194/leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/harshita194/leetcode/tree/master/0412-fizz-buzz) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/harshita194/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/harshita194/leetcode/tree/master/0039-combination-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/harshita194/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
