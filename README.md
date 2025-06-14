@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshita194/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/harshita194/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/harshita194/leetcode/tree/master/0169-majority-element) |
 ## Sorting
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshita194/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshita194/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/harshita194/leetcode/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/harshita194/leetcode/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/harshita194/leetcode/tree/master/0055-jump-game) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshita194/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0907-koko-eating-bananas](https://github.com/harshita194/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/harshita194/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Tree
