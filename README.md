@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/harshita194/leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/harshita194/leetcode/tree/master/0012-integer-to-roman) |
+| [0038-count-and-say](https://github.com/harshita194/leetcode/tree/master/0038-count-and-say) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshita194/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/harshita194/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/harshita194/leetcode/tree/master/0412-fizz-buzz) |
