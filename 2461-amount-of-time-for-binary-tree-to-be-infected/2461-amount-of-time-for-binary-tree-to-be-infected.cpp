@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    TreeNode* createParentMapping(TreeNode* root, int start, map<TreeNode*, TreeNode*> &nodeToParent){
+    TreeNode* createParentMapping(TreeNode* root, int start, unordered_map<TreeNode*, TreeNode*> &nodeToParent){
         TreeNode* res = NULL;
 
         queue<TreeNode*> q;
@@ -39,8 +39,8 @@ public:
         return res;
     }
 
-    int burnTree(TreeNode* root, map<TreeNode*, TreeNode*> &nodeToParent){
-        map<TreeNode*, bool> visited;
+    int burnTree(TreeNode* root, unordered_map<TreeNode*, TreeNode*> &nodeToParent){
+        unordered_map<TreeNode*, bool> visited;
         queue<TreeNode*> q;
 
         q.push(root);
@@ -81,7 +81,7 @@ public:
     } 
 
     int amountOfTime(TreeNode* root, int start) {
-        map<TreeNode*, TreeNode*> nodeToParent;
+        unordered_map<TreeNode*, TreeNode*> nodeToParent;
         TreeNode* targetNode = createParentMapping(root, start, nodeToParent);
         int ans = burnTree(targetNode, nodeToParent);
         return ans;
