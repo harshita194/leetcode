@@ -28,4 +28,5 @@ public:
     bool hasPathSum(TreeNode* root, int targetSum) {
         return solve(root, 0, targetSum);
     }
+
 };
