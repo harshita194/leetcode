@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/harshita194/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/harshita194/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/harshita194/leetcode/tree/master/0134-gas-station) |
+| [0137-single-number-ii](https://github.com/harshita194/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/harshita194/leetcode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/harshita194/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/harshita194/leetcode/tree/master/0289-game-of-life) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshita194/leetcode/tree/master/0029-divide-two-integers) |
+| [0137-single-number-ii](https://github.com/harshita194/leetcode/tree/master/0137-single-number-ii) |
 ## Design
 |  |
 | ------- |
