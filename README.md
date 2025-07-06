@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshita194/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/harshita194/leetcode/tree/master/0782-jewels-and-stones) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/harshita194/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1319-unique-number-of-occurrences](https://github.com/harshita194/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshita194/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshita194/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harshita194/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/harshita194/leetcode/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/harshita194/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1137-height-checker](https://github.com/harshita194/leetcode/tree/master/1137-height-checker) |
+| [1319-unique-number-of-occurrences](https://github.com/harshita194/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1646-kth-missing-positive-number](https://github.com/harshita194/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/harshita194/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/harshita194/leetcode/tree/master/2737-row-with-maximum-ones) |
