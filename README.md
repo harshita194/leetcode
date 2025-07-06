@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/harshita194/leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/harshita194/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/harshita194/leetcode/tree/master/0169-majority-element) |
+| [0228-summary-ranges](https://github.com/harshita194/leetcode/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/harshita194/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/harshita194/leetcode/tree/master/0289-game-of-life) |
 | [0414-third-maximum-number](https://github.com/harshita194/leetcode/tree/master/0414-third-maximum-number) |
