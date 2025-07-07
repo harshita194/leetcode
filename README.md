@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harshita194/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/harshita194/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshita194/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/harshita194/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshita194/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshita194/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshita194/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harshita194/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshita194/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshita194/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/harshita194/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/harshita194/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/harshita194/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshita194/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/harshita194/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/harshita194/leetcode/tree/master/0414-third-maximum-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/harshita194/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1137-height-checker](https://github.com/harshita194/leetcode/tree/master/1137-height-checker) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/harshita194/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harshita194/leetcode/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/harshita194/leetcode/tree/master/0289-game-of-life) |
+| [0347-top-k-frequent-elements](https://github.com/harshita194/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/harshita194/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshita194/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/harshita194/leetcode/tree/master/0463-island-perimeter) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshita194/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/harshita194/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshita194/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1137-height-checker](https://github.com/harshita194/leetcode/tree/master/1137-height-checker) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshita194/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -293,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshita194/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/harshita194/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/harshita194/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -384,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshita194/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/harshita194/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -393,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/harshita194/leetcode/tree/master/0139-word-break) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/harshita194/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
