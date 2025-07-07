@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/harshita194/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshita194/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshita194/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshita194/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/harshita194/leetcode/tree/master/0782-jewels-and-stones) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/harshita194/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/harshita194/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshita194/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/harshita194/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/harshita194/leetcode/tree/master/0414-third-maximum-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshita194/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/harshita194/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1137-height-checker](https://github.com/harshita194/leetcode/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/harshita194/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/harshita194/leetcode/tree/master/0463-island-perimeter) |
 | [0503-next-greater-element-ii](https://github.com/harshita194/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/harshita194/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshita194/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/harshita194/leetcode/tree/master/0724-find-pivot-index) |
 | [0859-design-circular-deque](https://github.com/harshita194/leetcode/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/harshita194/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harshita194/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/harshita194/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshita194/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshita194/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1137-height-checker](https://github.com/harshita194/leetcode/tree/master/1137-height-checker) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshita194/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshita194/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/harshita194/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshita194/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
