@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/harshita194/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshita194/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/harshita194/leetcode/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/harshita194/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/harshita194/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/harshita194/leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/harshita194/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/harshita194/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/harshita194/leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/harshita194/leetcode/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/harshita194/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/harshita194/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshita194/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/harshita194/leetcode/tree/master/0392-is-subsequence) |
