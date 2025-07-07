@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/harshita194/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/harshita194/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/harshita194/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/harshita194/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshita194/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshita194/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshita194/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/harshita194/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/harshita194/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshita194/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/harshita194/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshita194/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/harshita194/leetcode/tree/master/0414-third-maximum-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/harshita194/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/harshita194/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/harshita194/leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/harshita194/leetcode/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/harshita194/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshita194/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/harshita194/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/harshita194/leetcode/tree/master/0412-fizz-buzz) |
